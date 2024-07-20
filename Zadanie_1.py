@@ -2,8 +2,9 @@ def demo_function():
     print("I am inside of a function!")
 # ćwiczenie
 
-def sum():
+def addiction():
     x = 10
     y = 21
-    print(x+y)
-sum()
+    sum = x + y
+    print(sum)
+addiction()
